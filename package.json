@@ -1,0 +1,13 @@
+{
+  "name": "callmearya-profile-readme",
+  "version": "1.0.0",
+  "description": "Animated terminal profile and jet-over-contribution-grid for callmearya",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

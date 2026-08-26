@@ -1,0 +1,7 @@
+CONTEXT.md
+dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+.playwright-cli/
+.claude/settings.local.json
