@@ -503,9 +503,9 @@
   <rect x="1058" y="106" width="14" height="14" rx="2.5" fill="#FB7185" stroke="#FB7185" stroke-width="0.35"><title>9 power units on 2026-10-19</title></rect>
   <rect x="1058" y="124" width="14" height="14" rx="2.5" fill="#FB7185" stroke="#FB7185" stroke-width="0.35">
     <animate attributeName="fill" dur="18s" repeatCount="indefinite" values="#FB7185; #FB7185; #FB7185; #38BDF8; #FB7185; #FFFFFF; #FB7185; #FFFFFF; #FB7185; #38BDF8; #FB7185; #FB7185; #FB7185" keyTimes="0.0000; 0.0001; 0.4860; 0.4990; 0.4999; 0.5000; 0.5002; 0.5004; 0.5006; 0.5080; 0.5120; 0.9999; 1.0000"/>
-    <title>14 power units on 2026-10-20</title>
+    <title>15 power units on 2026-10-20</title>
   </rect>
-  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
+  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on 2026-10-21</title></rect>
   <rect x="1058" y="160" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
   <rect x="1058" y="178" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
   <rect x="1058" y="196" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
