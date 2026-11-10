@@ -13,7 +13,7 @@
 </p>
 
 <picture>
-  <img alt="Arya's animated GitHub contribution defense grid" src="https://raw.githubusercontent.com/callmearya/callmearya/main/github-jet.svg?v=1794176423123" width="100%">
+  <img alt="Arya's animated GitHub contribution defense grid" src="https://raw.githubusercontent.com/callmearya/callmearya/main/github-jet.svg?v=1794274978886" width="100%">
 </picture>
 
 <!-- Regenerate the header with: python3 generate.py -->
